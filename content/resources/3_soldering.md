@@ -3,8 +3,13 @@ content_type: resource
 description: 'Workshop notes covering the following topics: solder, purchasing and
   using lab soldering irons, how to solder PCBs, soldering motors and sensors, general
   tips, and activity of soldering the RF receiver board.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-270-autonomous-robot-design-competition-january-iap-2005/d294aa977b3595dd83056c14dfc0da8f_3_soldering.pdf
+file: /media/courses/6-270-autonomous-robot-design-competition-january-iap-2005/d294aa977b3595dd83056c14dfc0da8f_3_soldering.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 3_soldering.pdf
 uid: d294aa97-7b35-95dd-8305-6c14dfc0da8f
