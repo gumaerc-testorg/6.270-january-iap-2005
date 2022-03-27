@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1fa88d6-2b48-838f-acce-59839073406b
 resourcetype: Document
 title: faq.pdf
 uid: 3c486217-0dc3-e86a-5ded-cbfe0599d428

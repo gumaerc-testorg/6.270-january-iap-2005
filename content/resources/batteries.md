@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1fa88d6-2b48-838f-acce-59839073406b
 resourcetype: Document
 title: batteries.pdf
 uid: 2e1e6985-745e-8ba9-c8f2-e92078f5e9f3

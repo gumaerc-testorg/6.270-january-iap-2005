@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1fa88d6-2b48-838f-acce-59839073406b
 resourcetype: Document
 title: charger_instruct.pdf
 uid: 76bccddd-580f-6ad8-d30d-9ef3dbb8571c

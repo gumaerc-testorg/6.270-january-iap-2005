@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e1fa88d6-2b48-838f-acce-59839073406b
 resourcetype: Document
 title: introc.pdf
 uid: 2b90bb51-a001-62c3-b07f-a8a21e52b876

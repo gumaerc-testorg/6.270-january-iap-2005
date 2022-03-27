@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e54411e-900d-275d-6afc-29b24959ee2b
 resourcetype: Document
 title: 3_soldering.pdf
 uid: d294aa97-7b35-95dd-8305-6c14dfc0da8f

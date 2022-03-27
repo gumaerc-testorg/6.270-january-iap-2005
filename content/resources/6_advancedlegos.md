@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e54411e-900d-275d-6afc-29b24959ee2b
 resourcetype: Document
 title: 6_advancedlegos.pdf
 uid: f78cd5c7-4d7f-0f3e-d08b-6593aa5dcdf1

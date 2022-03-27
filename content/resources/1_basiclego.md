@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e54411e-900d-275d-6afc-29b24959ee2b
 resourcetype: Document
 title: 1_basiclego.pdf
 uid: 4aa71821-1a3d-9142-118d-5dd0f138e54b

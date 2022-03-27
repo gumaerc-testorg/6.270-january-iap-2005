@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e54411e-900d-275d-6afc-29b24959ee2b
 resourcetype: Document
 title: 7_codesensors2.pdf
 uid: d5b73e7f-3f21-ca90-f024-aab98ce85a57

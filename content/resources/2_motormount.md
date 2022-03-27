@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e54411e-900d-275d-6afc-29b24959ee2b
 resourcetype: Document
 title: 2_motormount.pdf
 uid: 9958f496-54a9-9c85-65dc-35abeeff278f

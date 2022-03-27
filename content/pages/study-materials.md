@@ -35,11 +35,11 @@ Gyro Assembly ([PDF]({{< baseurl >}}/resources/gyro))
 Code
 ----
 
-Handyboard Test Suite ([C](./resolveuid/8f9b70b89812bf8f31cb806c05952c61))
+Handyboard Test Suite ([C]({{< baseurl >}}/resources/hbtest))
 
-Expansion Board Test Suite ([C](./resolveuid/e082e40b2eca1cc342d87178e9175677))
+Expansion Board Test Suite ([C]({{< baseurl >}}/resources/hbexptest))
 
-Gyro Code ([C](./resolveuid/58733813e7437bfe9f32e75788988d38)) (Courtesy of Howard Samuels. Used with permission.)
+Gyro Code ([C]({{< baseurl >}}/resources/gyro-1)) (Courtesy of Howard Samuels. Used with permission.)
 
 Datasheets
 ----------
