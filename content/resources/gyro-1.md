@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting code file.
-file: /media/courses/6-270-autonomous-robot-design-competition-january-iap-2005/58733813e7437bfe9f32e75788988d38_gyro.c
+file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/58733813e7437bfe9f32e75788988d38_gyro.c
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: gyro.c
 uid: 58733813-e743-7bfe-9f32-e75788988d38
 ---
+Supporting code file.
+

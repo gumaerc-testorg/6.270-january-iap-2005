@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting code file.
-file: /media/courses/6-270-autonomous-robot-design-competition-january-iap-2005/e082e40b2eca1cc342d87178e9175677_hbexptest.c
+file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/e082e40b2eca1cc342d87178e9175677_hbexptest.c
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: hbexptest.c
 uid: e082e40b-2eca-1cc3-42d8-7178e9175677
 ---
+Supporting code file.
+
