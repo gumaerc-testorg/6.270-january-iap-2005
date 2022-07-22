@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 7edafa77-28e4-4de6-ca52-b14ea38cce42
+video_metadata:
+  youtube_id: null
 ---
 
 Useful Links
