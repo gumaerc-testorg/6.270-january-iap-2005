@@ -7,6 +7,7 @@ file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/e3eef1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Lab and class orientation, overview of course and schedule, the contest, what?s in your kit, assignment 1 handed out, and kit distribution.
-

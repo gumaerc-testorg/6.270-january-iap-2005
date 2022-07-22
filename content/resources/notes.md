@@ -6,6 +6,7 @@ description: 'Handout covering the following topics: introduction, attack of the
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/49a25d3e342679462df656a39c26b76e_notes.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Handout covering the following topics: introduction, attack of the drones, the human factor, electronic assembly, sensors, robot construction, robot control, IC commands for 6.270, and expansion board assembly.
-

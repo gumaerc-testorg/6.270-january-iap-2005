@@ -10,6 +10,7 @@ file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/6a3fdc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Lecture presentation covering the following topics: assignment 1: general comments, sensor store and $30 electronics rule, electronics review, handy board hardware and
 interface, sensors and motors, interactive C development environment, and assignment 2 handed out.
-

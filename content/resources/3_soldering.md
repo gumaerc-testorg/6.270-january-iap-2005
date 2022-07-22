@@ -7,6 +7,7 @@ file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/d294aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Workshop notes covering the following topics: solder, purchasing and using lab soldering irons, how to solder PCBs, soldering motors and sensors, general tips, and activity of soldering the RF receiver board.
-

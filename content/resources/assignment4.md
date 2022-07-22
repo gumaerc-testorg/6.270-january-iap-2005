@@ -7,6 +7,7 @@ file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/66354f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Instructions for analyzing all aspects of the contest and the rules, writing a brief description of robot, and using the table schematic provided to sketchout the path of robot during the round.
-

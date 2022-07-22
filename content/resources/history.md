@@ -4,6 +4,7 @@ description: This handout details the history of the course, the teams, and the 
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/0f5f6dbbbb72c413625d74001553d68f_history.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This handout details the history of the course, the teams, and the organizers.
-
