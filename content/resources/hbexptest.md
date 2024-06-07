@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting code file.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/e082e40b2eca1cc342d87178e9175677_hbexptest.c
+file_size: 1834
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

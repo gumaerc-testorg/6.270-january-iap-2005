@@ -2,6 +2,7 @@
 content_type: resource
 description: Laboratory apparatus information.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/fbebde6f734f97dc94e056f4629c6d69_gyro.pdf
+file_size: 42766
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

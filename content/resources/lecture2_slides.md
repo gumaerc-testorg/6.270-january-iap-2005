@@ -7,6 +7,7 @@ description: 'Lecture presentation covering the following topics: assignment 1: 
   interface, sensors and motors, interactive C development environment, and assignment
   2 handed out.'
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/6a3fdcd640dba5716eb4d7d07e77ec3f_lecture2_slides.pdf
+file_size: 979546
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
