@@ -4,6 +4,7 @@ description: Instructions for analyzing all aspects of the contest and the rules
   writing a brief description of robot, and using the table schematic provided to
   sketchout the path of robot during the round.
 file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/66354f40abf9be8c031f18e4e135d361_assignment4.pdf
+file_size: 62130
 file_type: application/pdf
 learning_resource_types:
 - Assignments
