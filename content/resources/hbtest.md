@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting code file.
-file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/8f9b70b89812bf8f31cb806c05952c61_hbtest.c
+file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/8f9b70b89812bf8f31cb806c05952c61_hbtest.c
 file_size: 1313
 file_type: text/plain
 learning_resource_types: []
