@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Workshop notes covering the following topics: LEGO measurements, LEGO
   bracing, activity of constructing a cube, and a few things for the future.'
-file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/4aa718211a3d9142118d5dd0f138e54b_1_basiclego.pdf
+file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/4aa718211a3d9142118d5dd0f138e54b_1_basiclego.pdf
 file_size: 298692
 file_type: application/pdf
 learning_resource_types:
