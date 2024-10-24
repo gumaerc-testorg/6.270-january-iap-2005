@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for constructing a cube of at least 10 FLUs on a side that
   can survive a 6droptest.
-file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/ce5a472871ae9cd73d26d8c322229e2e_assignment1.pdf
+file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/ce5a472871ae9cd73d26d8c322229e2e_assignment1.pdf
 file_size: 298693
 file_type: application/pdf
 learning_resource_types:
