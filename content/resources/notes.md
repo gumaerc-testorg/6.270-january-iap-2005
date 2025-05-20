@@ -3,7 +3,7 @@ content_type: resource
 description: 'Handout covering the following topics: introduction, attack of the drones,
   the human factor, electronic assembly, sensors, robot construction, robot control,
   IC commands for 6.270, and expansion board assembly.'
-file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/49a25d3e342679462df656a39c26b76e_notes.pdf
+file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/49a25d3e342679462df656a39c26b76e_notes.pdf
 file_size: 605083
 file_type: application/pdf
 learning_resource_types: []

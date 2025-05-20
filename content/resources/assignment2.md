@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for soldering the?RF?receiver?board and soldering?the?expansion?board.
-file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/aac849c1af6df5acede2a96724e9bbd1_assignment2.pdf
+file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/aac849c1af6df5acede2a96724e9bbd1_assignment2.pdf
 file_size: 80846
 file_type: application/pdf
 learning_resource_types:
