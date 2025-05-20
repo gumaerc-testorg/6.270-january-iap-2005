@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Laboratory apparatus information.
-file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/ef0419f76bbdc5c9e1815bffa024d54e_ir_instructions.jpg
+file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/ef0419f76bbdc5c9e1815bffa024d54e_ir_instructions.jpg
 file_size: 115524
 file_type: image/jpeg
 image_metadata:
