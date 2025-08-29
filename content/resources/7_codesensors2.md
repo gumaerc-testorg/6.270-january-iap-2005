@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Workshop notes and instructions.
-file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/d5b73e7f3f21ca90f024aab98ce85a57_7_codesensors2.pdf
+file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/d5b73e7f3f21ca90f024aab98ce85a57_7_codesensors2.pdf
 file_size: 56373
 file_type: application/pdf
 learning_resource_types:
