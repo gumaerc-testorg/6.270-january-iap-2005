@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Workshop notes covering the following topics: comparing pieces, changing
   rotational motion, interesting sources, and activity to build a one way ball gate.'
-file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/f78cd5c74d7f0f3ed08b6593aa5dcdf1_6_advancedlegos.pdf
+file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/f78cd5c74d7f0f3ed08b6593aa5dcdf1_6_advancedlegos.pdf
 file_size: 1675371
 file_type: application/pdf
 learning_resource_types:

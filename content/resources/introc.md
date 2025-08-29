@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Computer programming tutorial.
-file: /courses/6-270-autonomous-robot-design-competition-january-iap-2005/2b90bb51a00162c3b07fa8a21e52b876_introc.pdf
+file: /ol-ocw-studio-app/courses/6-270-autonomous-robot-design-competition-january-iap-2005/2b90bb51a00162c3b07fa8a21e52b876_introc.pdf
 file_size: 112353
 file_type: application/pdf
 learning_resource_types: []
