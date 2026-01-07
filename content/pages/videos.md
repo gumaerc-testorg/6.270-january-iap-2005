@@ -13,7 +13,7 @@ video_metadata:
 Session 19 - Contest Video
 --------------------------
 
-({{% resource_link "7570ffb5-eec8-4f63-b34b-73d6315d32da" "MP4 - 934.9MB" %}})
+([MP4 - 934.9MB](http://www.archive.org/download/MIT6.270IAP05/ocw-6.270-comp-26jan2005-220k_512kb.mp4))
 
 Topics
 ------
